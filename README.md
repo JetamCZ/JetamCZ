@@ -1,5 +1,13 @@
 ### Hi there 👋, my name is Matěj
 
+🔭 About me
+I'm hight school CS student, curently writing websites and backend in Nextap solutions! 
+
+⚡  My cool students achievements
+ - Hackathon of Hradec Králové region - 2. place (Oct. 2020)
+ - MŠMT Programing tournament - website technologies - 4. place (nationwide)
+(and more! - check my website)
+
 📫 How to reach me:
   - info@puhony.eu
   - https://puhony.eu
