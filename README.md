@@ -4,7 +4,7 @@ I am a webdeveloper and student from Czech Republic, currently working for NEXTA
 
 &nbsp;
 
-🎓 Undergraduate - FIM University Hradec Králové
+🎓 student - FIM University Hradec Králové
 
 🎓 Hight school - DELTA SŠIE, Pardubice
 
