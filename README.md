@@ -1,60 +1,32 @@
-### Hi there 👋, I'm Matěj
+# Hi there 👋, I'm Matěj
+I'm a web developer from the Czech Republic, currently working for Nextap.eu, and I also do some freelance work.
 
-I am a webdeveloper and student from Czech Republic, currently working for NEXTAP.EU
+### Who am I?
+- 💼 Working as a freelancer and as a web developer & project manager at Nextap.eu
+- 🎓 Currently studying Applied Informatics at the Faculty of Informatics and Management, University of Hradec Králové
+- 🎓/💼 Previously studied at DELTA SŠIE High School in Pardubice, where I worked on several cool school projects
+- ⚡ 2nd place – Hackathon of the Hradec Králové Region (Oct. 2020)
+- ⚡ 4th place (nationwide) – MŠMT Programming Tournament in Website Technologies
+- 🕒 In my free time: ⚜️ SKAUT Stěžery, 🛸 drones, 🖨 3D printing
 
-&nbsp;
-
-🎓 student - FIM University Hradec Králové
-
-🎓 Hight school - DELTA SŠIE, Pardubice
-
-&nbsp;
-
-💼 working as Freelancer and Webdeveloper at Nextap.eu
-
-&nbsp;
-
-📫 How to reach me:
-  - info@puhony.eu
-  - https://puhony.eu
-  - messenger: matej.puhony
-
-&nbsp;
-
-⚡ Hackathon of Hradec Králové region - 2. place (Oct. 2020)
-
-⚡ MŠMT Programing tournament - website technologies - 4. place (nationwide)
-
-(and more! - check my website)
-
-&nbsp;
-
-<img height ="42px" align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"/>
-<img height ="42px" align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"/>
-<img height ="42px" align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"/>
-<img height ="42px" align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"/>
-<img height ="42px" align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"/>
-<img height ="42px" align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/graphql/graphql.svg"/>
-<img height ="42px" align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/redux/redux.svg"/>
-<img height ="42px" align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"/>
-<img height ="42px" align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"/>
-<img height ="42px" align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c%23/c%23.svg"/>
-<img height ="42px" align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/sass/sass.svg"/>
-
-&nbsp;
+### My ❤️ beats for Frontend
+- I primarily work with JavaScript and TypeScript
+- I love React, Express.js, Node.js, TypeScript, SvelteKit, React Native, and more
+- I'm also comfortable with PHP, Python, Java, and other languages
 
 
-<!--
-**JetamCZ/JetamCZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Projects I’ve worked on
+- [Steller.co](https://steller.co/) - Social app for travelers
+- [E-voucher](https://e-voucher.cz/)
+- [Skaut Stěžery web](https://skautstezery.cz/)
+- [Laser Game Hradec Králové](https://lasergame-hk.cz/)
+- [Tanix](https://lasergame-hk.cz/) - Management system for IoT LoRaWAN devices
+- [Crowning arts](https://www.instagram.com/crowningarts/) - Social network for artists
+- WordPress templates & plugins
+- BurzaŠkol.Online – A COVID-era project (discontinued 😞)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me:
+- info@puhony.eu
+- https://puhony.eu
+- messenger: matej.puhony
